@@ -4,7 +4,7 @@
   "description": "REST API with Express Server",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "RAJESH JHA",
   "license": "ISC",
