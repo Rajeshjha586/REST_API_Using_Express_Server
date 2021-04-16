@@ -56,7 +56,7 @@ router.post("/users", (req, res) => {
 });
 
 //PUT Request
-router.post("/users/:id", (req, res) => {
+router.put("/users/:id", (req, res) => {
   let userID = req.params.id;
   let updatedUser = {
     id: getID(),
