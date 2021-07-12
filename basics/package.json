@@ -1,0 +1,14 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "NodeJS Basics",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Rajesh Jha",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
